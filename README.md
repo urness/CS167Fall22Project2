@@ -24,7 +24,7 @@ You will create a Colab notebook that includes your code and results to document
 # Rubric and Grading
 Project #2 will be graded using the following rubric. I strongly suggest evaluating your project using this rubric before turning it in.
 
-| **Description/Writing**  |**I think I deserve:**. |**Actual Grade**|**Notes** |
+| **Description/Writing**  |**I think I deserve** |**Actual Grade**|**Notes** |
 | :------------------------------- | -------: | ----: |:---- |
 | 1: Problem                       |        /1|       /1|    |
 | 2: Data Prep                     |        /3|       /3|    | 
