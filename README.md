@@ -19,7 +19,7 @@ You will create a Colab notebook that includes your code and results to document
 2.  **Data Preparation** [3 points]: Explain your data preparation. What did you have to do to get your data in shape for your experiments? Why are you certain that you data is clean and prepared for use in your algorithms? 
 3.  **Research** [10 points]: Put your code and your experiments here.
 4.  **Analysis** [10 points]: What did you discover? What insights/recommendations do you have? What did you find that was interesting? Which model was your best model, which models didn't work well? Why do you think this is? In general, I want a discussion of your experiment, the results, and what they mean.
-5.  **Bumps in the Road** [1 point]: What challenges did you encounter? How did you overcome these challenges? Did you have to adapt your strategy to account for these challenges? Why or why not?
+5.  **Bumps in the Road** [1 point]: What challenges did you encounter? How did you overcome these challenges?
 
 # Rubric and Grading
 Project #2 will be graded using the following rubric. I strongly suggest evaluating your project using this rubric before turning it in.
