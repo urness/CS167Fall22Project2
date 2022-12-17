@@ -31,4 +31,4 @@ Project #2 will be graded using the following rubric. I strongly suggest evaluat
 | 3: Research                      |       /10|      /10|    |
 | 4: Analysis                      |       /10|      /10|    | 
 | 5: Bumps in the Road.            |        /1|       /1|    |
-| <b>Total                         |       /25|      /25|    </b>|
+| <b>Total                         |       /25|    25  /25|   Yes! What a fun project! Excellent work! Thank you for all of your hard work this semester! Your questions and contributions during class made the entire course better. </b>|
